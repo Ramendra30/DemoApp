@@ -11,7 +11,7 @@ using NRECA.BizTalk.NNS.Flex.WEX.TLS12.EndPointBehavior;
 using System.Security.Cryptography.X509Certificates;
 //using ManagementServiceClientWrapper = ServiceClientWrapper<DemographicServiceTestConsoleApp.ServiceRef.DemographicServiceClient, DemographicServiceTestConsoleApp.ServiceRef.DemographicService>;
 
-namespace ClassLibrary1
+namespace ClassLibrary2
 {
     public class WEXServiceClientWrapperTest
     {
