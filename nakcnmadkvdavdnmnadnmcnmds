@@ -1,0 +1,63 @@
+[33mcommit 122233de1b6847706a4de76319407935961a55f1[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 59a607d 4bc31dc
+Author: Ramendra30 <rxs13@nreca.coop>
+Date:   Sat Apr 13 18:27:39 2019 -0400
+
+    Merge pull request #1 from Ramendra30/Demobranch2
+    
+    added and edited 2 files
+
+[33mcommit 4bc31dcf161eee620f8105c06032c5fac6cc1b89[m[33m ([m[1;31morigin/Demobranch2[m[33m, [m[1;32mDemobranch2[m[33m)[m
+Author: Ramendra Sahu <Ramendra.Sahu-contractor@nreca.coop>
+Date:   Sat Apr 13 18:05:08 2019 -0400
+
+    added and edited 2 files
+
+ create mode 100644 scripts.sql
+
+[33mcommit 59a607dce8b47c54c4a37f60f11ee2ec7efab8bc[m
+Author: Ramendra Sahu <Ramendra.Sahu-contractor@nreca.coop>
+Date:   Sat Apr 13 12:50:05 2019 -0400
+
+    added bat file
+
+ create mode 100644 test.bat
+
+[33mcommit 57c207409f6e5ec12cda51c4e6600db8f375e387[m
+Author: Ramendra30 <ramendra.sahu@gmail.com>
+Date:   Sat Apr 13 12:42:26 2019 -0400
+
+    Added new file
+
+ create mode 100644 test.xml
+
+[33mcommit db8f6e5d66fe3213974f19f12e57eda96f1579a7[m
+Author: Ramendra30 <ramendra.sahu@gmail.com>
+Date:   Sat Apr 13 12:41:35 2019 -0400
+
+    Updated classname
+
+
+[33mcommit 94a24adf91dce8278d262f4d124d70dd68bbef7a[m
+Author: Ramendra30 <ramendra.sahu@gmail.com>
+Date:   Fri Apr 12 14:59:31 2019 -0400
+
+    Update README.md
+
+
+[33mcommit 1e98f6b6b98974a5803cc209ac2178af426dfdf3[m
+Author: Ramendra Sahu <Ramendra.Sahu-contractor@nreca.coop>
+Date:   Fri Apr 12 12:02:42 2019 -0400
+
+    added new files
+
+ create mode 100644 Class1.cs
+ create mode 100644 app.config
+
+[33mcommit e47c1e9d07c89f15139c8e6bd7e88f1666de20c3[m
+Author: Ramendra Sahu <Ramendra.Sahu-contractor@nreca.coop>
+Date:   Fri Apr 12 12:00:24 2019 -0400
+
+    Initial commit
+
+ create mode 100644 README.md
